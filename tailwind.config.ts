@@ -62,11 +62,16 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				},
-				billmanager: {
-					blue: '#2563EB',
-					darkgray: '#1F2937',
-					lightgray: '#F8FAFC',
-					white: '#FFFFFF'
+				vds: {
+					primary: '#8BC34A',
+					dark: '#2B3544',
+					sidebar: '#363F4C',
+					gray: '#6B7280',
+					lightgray: '#F3F4F6',
+					white: '#FFFFFF',
+					blue: '#3B82F6',
+					orange: '#F59E0B',
+					purple: '#8B5CF6'
 				}
 			},
 			borderRadius: {
